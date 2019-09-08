@@ -1,6 +1,6 @@
 # Text to speech
 
-Text to speech is a react native application that helps to pronounce you text in different languages. henceforth, you don't need to be afraid about the wrong Pronounciation
+Text to speech is a react native application that helps you pronounce words in different languages.
 
 # Demo
 [text-to-speechApp](https://snack.expo.io/@akinmyde/speech)
